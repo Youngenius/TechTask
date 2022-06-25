@@ -1,0 +1,2 @@
+C:\Users\Володимир\Horror1\obj\Debug\spine-unity.csproj.AssemblyReference.cache
+C:\Users\Володимир\Horror1\obj\Debug\spine-unity.csproj.CoreCompileInputs.cache

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CarOutline
+  m_Shader: {fileID: -6465566751694194690, guid: f40c81e86946f6a4096eda98bd5d9452, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_a914896fefeb44928c4ea3d94eba8a03:
+        m_Texture: {fileID: 2800000, guid: d2651db40a725264c8ff0828bd5ad5bd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - ChangeColor: 0
+    - ChangeColor1: 1
+    - ChangeColorCar: 1
+    - Vector1_70f3545513734f65a5c87b8c19329964: -0.06
+    - Vector1_e8f458f9f0d04281a39553e317b2bae4: 0.1
+    - _EnableExternalAlpha: 0
+    m_Colors:
+    - Color1: {r: 4.0784316, g: 2.7607844, b: 1.6313726, a: 0}
+    - Color2: {r: 12.222, g: 63, b: 40.759228, a: 1}
+    - FinishColor: {r: 0, g: 0, b: 0, a: 0}
+    - FinishColor1: {r: 16.639343, g: 47.5, b: 16.5775, a: 1}
+    - FinishColorCar: {r: 3.5, g: 0.6544999, b: 2.3447266, a: 1}
+    - StartColorCar: {r: 1.9788, g: 10.2, b: 6.5991125, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
